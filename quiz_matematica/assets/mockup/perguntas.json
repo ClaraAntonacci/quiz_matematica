@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "pergunta": "Um cubo possui aresta de 4 cm. Qual é o seu volume?",
+    "respostas": ["16 cm³", "32 cm³", "64 cm³", "48 cm³"],
+    "correta": 2
+  },
+  {
+    "id": 2,
+    "pergunta": "Um paralelepípedo possui dimensões 2 cm, 3 cm e 5 cm. Qual é o volume?",
+    "respostas": ["30 cm³", "10 cm³", "20 cm³", "15 cm³"],
+    "correta": 0
+  },
+  {
+    "id": 3,
+    "pergunta": "Qual é a fórmula do volume do cilindro?",
+    "respostas": ["V = πr²", "V = 2πrh", "V = πr²h", "V = πd"],
+    "correta": 2
+  },
+  {
+    "id": 4,
+    "pergunta": "Um cilindro tem raio 3 cm e altura 5 cm. Qual é o volume? (Use π = 3)",
+    "respostas": ["135 cm³", "90 cm³", "45 cm³", "30 cm³"],
+    "correta": 0
+  },
+  {
+    "id": 5,
+    "pergunta": "Qual é o número de faces de um cubo?",
+    "respostas": ["4", "6", "8", "12"],
+    "correta": 1
+  },
+  {
+    "id": 6,
+    "pergunta": "Uma pirâmide de base quadrada tem lado da base igual a 4 cm. Qual é a área da base?",
+    "respostas": ["8 cm²", "12 cm²", "16 cm²", "20 cm²"],
+    "correta": 2
+  },
+  {
+    "id": 7,
+    "pergunta": "Uma esfera possui raio 2 cm. Qual é a fórmula do volume da esfera?",
+    "respostas": ["V = 4πr²", "V = 4/3 πr³", "V = πr²h", "V = 2πr"],
+    "correta": 1
+  },
+  {
+    "id": 8,
+    "pergunta": "Quantas arestas possui um cubo?",
+    "respostas": ["6", "8", "10", "12"],
+    "correta": 3
+  },
+  {
+    "id": 9,
+    "pergunta": "Um prisma triangular possui base com área de 10 cm² e altura de 6 cm. Qual é o volume?",
+    "respostas": ["60 cm³", "30 cm³", "16 cm³", "10 cm³"],
+    "correta": 0
+  },
+  {
+    "id": 10,
+    "pergunta": "Qual sólido possui apenas uma face curva?",
+    "respostas": ["Cubo", "Prisma", "Cilindro", "Pirâmide"],
+    "correta": 2
+  }
+]
